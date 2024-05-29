@@ -24,6 +24,8 @@ Plus d'infos ici: https://www.apartresearch.com/event/deception-hack
 
 # Évènements passés
 
+[Manifestation de PauseIA France](https://www.ladn.eu/tech-a-suivre/pas-de-futur-sans-ia-sure-des-technophiles-alertent-sur-les-derapages-des-ia-generatives/)
+
 [VivaTech](https://vivatechnology.com/), avec des invités comme [Snneha Revanur](https://www.20minutes.fr/high-tech/4092267-20240524-vivatech-2024-rencontre-sneha-revanur-surnommee-greta-thunberg-ia) et [Audrey Tang](https://www.linkedin.com/posts/viva-technology_audrey-tang-at-vivatech-activity-6811688827149664256-nM96/)
 
 [Hackaton pour détecter les deepfakes](https://www.linkedin.com/feed/update/urn:li:activity:7198943187455877120/) avec Automatans, l'association d'IA de Centrale Supelec
